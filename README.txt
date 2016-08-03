@@ -6,7 +6,7 @@ Instructions:
 1. Download everything to a directory in Linux/Unix
 
 
-2. Install Eisen's cluster software (http://rana.lbl.gov/EisenSoftware.htm)
+2. Install Eisen's cluster software (http://bonsai.hgc.jp/~mdehoon/software/cluster/software.htm)
 
 
 3. Make sure R and Perl are pre-installed
